@@ -1,7 +1,7 @@
 {
-    "Value" : "True",
+    "Value" : "true",
     "LinkToGame" : "https://play.google.com/store/apps/details?id=com.gamingbs.adventurergame",
     "InterbuttomImageUrl" : "https://raw.githubusercontent.com/djood5/djood5/refs/heads/main/ads_1.jpg",
     "PopUpbuttomImageUrl" : "https://raw.githubusercontent.com/djood5/djood5/refs/heads/main/ads_2.jpg",
-     "ShowClose" : "True"
+     "ShowClose" : "true"
 }
